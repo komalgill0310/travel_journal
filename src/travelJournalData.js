@@ -2,7 +2,7 @@ export default [
   {
     id: 1,
     title: "Peggy's Cove",
-    location: "Nova Scotia, Canada",
+    location: "Canada",
     googleMapsUrl:
       "https://www.google.com/maps/place/Peggys+Cove,+NS/@44.4826985,-63.9519894,13.99z/data=!4m6!3m5!1s0x4b5a02e9d854b0e5:0x6b8306124c808566!8m2!3d44.4939204!4d-63.9140477!16zL20vMDNoOTFx?entry=ttu",
     startDate: "3rd Oct, 2020",
@@ -14,7 +14,7 @@ export default [
   {
     id: 2,
     title: "Montreal Botanical Garden",
-    location: "Montreal, Canada",
+    location: "Canada",
     googleMapsUrl:
       "https://www.google.com/maps/place/Montreal+Botanical+Garden/@45.5561856,-73.5573494,17z/data=!3m1!4b1!4m6!3m5!1s0x4cc91c095abe83c7:0x42a1be0259b47573!8m2!3d45.5561856!4d-73.5547691!16zL20vMDJ2X243?entry=ttu",
     startDate: "13th May, 2020",
@@ -26,7 +26,7 @@ export default [
   {
     id: 3,
     title: "CN Tower",
-    location: "Toronto, Canada",
+    location: "Canada",
     googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
     startDate: "13th July, 2022",
     endDate: "13th July, 2022",

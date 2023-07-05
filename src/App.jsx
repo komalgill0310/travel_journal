@@ -11,7 +11,9 @@ function App() {
   return (
     <>
       <Header />
-      {travelData}
+      <main>
+        {travelData}
+      </main>
     </>
   )
 }
