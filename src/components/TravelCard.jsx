@@ -1,19 +1,18 @@
 import React from "react";
 
 export default function TravelCard(props){
-  console.log(props.data);
   const {description, endDate, googleMapsUrl, imageUrl, location, startDate, title} = props.data
   return (
     <article className="travel-card">
-      <img src={imageUrl} />
+      <img src={imageUrl} className="travel-card--image"/>
       <div>
         <img src="" alt="" />
-        <p>{location}</p>
-        <a href={googleMapsUrl} target="_blank">View on Google Maps</a>
+        <p className="travle-card--location">{location}</p>
+        <a href={googleMapsUrl} target="_blank" className="travel-card--google-link">View on Google Maps</a>
       </div>
-      <h2>{title}</h2>
-      <p>{startDate} - {endDate}</p>
-      <p>{description}</p>
+      <h2 className="travel-card--title">{title}</h2>
+      <p className="travel-card--date">{startDate} - {endDate}</p>
+      <p className="travel-card--description">{description}</p>
     </article>
   )
 }
