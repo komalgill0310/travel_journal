@@ -7,7 +7,7 @@ export default function TravelCard(props){
         <img src={imageUrl} className="travel-card--image"/>
         <div className="card-info">          
           <div className="travel-card--details">
-            <img src="/map-logo.png" alt="Google Map Icon" className="travel-card--map-icon"/>
+            <img src="/images/map-logo.png" alt="Google Map Icon" className="travel-card--map-icon"/>
             <p className="travel-card--location">{location}</p>
             <a href={googleMapsUrl} target="_blank" className="travel-card--google-link">View on Google Maps</a>
           </div>
