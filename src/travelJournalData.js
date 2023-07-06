@@ -9,7 +9,7 @@ export default [
     endDate: "3rd Oct, 2020",
     description:
       "Nova Scotia is home to over 160 historic lighthouses, but no beacon is as photographed as the one in the vibrant fishing village of Peggy’s Cove. Built in 1915, Peggy’s Point Lighthouse still keeps watch over surging ocean waves and working lobster boats. Amble over giant rocks worn smooth by the sea and share in the view.",
-    imageUrl: "./public/images/peggysCove.avif",
+    imageUrl: "/images/peggysCove.avif",
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ export default [
     endDate: "17th May, 2020",
     description:
       "This large botanical garden in the city is part of Montreal Space for Life—Canada’s largest natural sciences museum complex—with over 22,000 species of plants from all over the world, exhibition greenhouses, and thematic gardens. You can learn about Chinese, Japanese and First Nations cultures through their flora, and discover seasonal varieties and events at the main exhibition greenhouse.",
-    imageUrl: "./public/images/montrealBotanicalGarden.avif",
+    imageUrl: "/images/montrealBotanicalGarden.avif",
   },
   {
     id: 3,
@@ -32,6 +32,6 @@ export default [
     endDate: "13th July, 2022",
     description:
       "The CN Tower, a prominent symbol of Toronto, Canada, is an architectural marvel that stands at a towering height of 553 meters. Its observation deck provides awe-inspiring panoramic views of the city's skyline and the vast expanse of Lake Ontario. A visit to this iconic landmark is a must for any traveler seeking breathtaking vistas and a true sense of the city's grandeur.",
-    imageUrl: "./public/images/cnTower.avif",
+    imageUrl: "/images/cnTower.avif",
   },
 ];
