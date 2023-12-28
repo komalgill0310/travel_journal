@@ -16,7 +16,7 @@ Live Version [here](https://reacttraveljournal03.netlify.app/)
 
 Throughout the development of this project, I've gained valuable insights into efficient React development. Key learnings include:
 
-- **Componentization**: Creating modular components like **Header.jsx**and **TravelCard.jsx** to enhance the project's maintainability and readability.
+- **Componentization**: Creating modular components like **Header.jsx** and **TravelCard.jsx** to enhance the project's maintainability and readability.
 
 - **Data Mapping**: Utilizing the map function to dynamically render components based on data. The TravelCard.jsx component effectively maps through the data stored in travelJournalData.js, creating individual cards for each location entry.
 
