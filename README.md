@@ -22,8 +22,6 @@ Throughout the development of this project, I've gained valuable insights into e
 
 ## Features
 
-- **Interactive Components**: **Header.jsx** for seamless navigation and **TravelCard.jsx** for displaying detailed information about each location.
-
 - **Visual Highlights**:
   Captivating images and descriptions showcasing the beauty and uniqueness of each place.
 
