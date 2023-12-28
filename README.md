@@ -22,7 +22,7 @@ Throughout the development of this project, I've gained valuable insights into e
 
 ## Features
 
-- **Interactive Components**: Displaying a photo of the user for a personalized touch.
+- **Interactive Components**: **Header.jsx** for seamless navigation and **TravelCard.jsx** for displaying detailed information about each location.
 
 - **Visual Highlights**:
   Captivating images and descriptions showcasing the beauty and uniqueness of each place.
@@ -75,7 +75,7 @@ Now, you're all set! Begin your virtual exploration of the world and relive the 
 
 ## Dependencies
 
-Digital Business Card utilizes the following key dependencies to deliver an efficient and delightful user experience:
+Travel Journal utilizes the following key dependencies to deliver an efficient and delightful user experience:
 
 1. **[React](https://react.dev/):**
    A declarative, efficient, and flexible JavaScript library for building user interfaces.
@@ -83,7 +83,7 @@ Digital Business Card utilizes the following key dependencies to deliver an effi
 2. **[Vite](https://vitejs.dev/)**
    A fast, opinionated web dev build tool that aims to provide a smoother development experience.
 
-Feel free to explore each of these technologies to gain a deeper understanding of Digital Business Card's robust foundation.
+Feel free to explore each of these technologies to gain a deeper understanding of Travel Journal's robust foundation.
 
 # Author
 
